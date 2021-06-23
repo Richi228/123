@@ -17,4 +17,3 @@ prettytable~=2.1.0
 amino.py
 pyYAML
 websocket-client
-threading.py
