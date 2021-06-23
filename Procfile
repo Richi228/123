@@ -1,0 +1,1 @@
+worcer: python okbez.py
