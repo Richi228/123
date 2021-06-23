@@ -53,7 +53,7 @@ def task(client: Client,sub: SubClient,email: str,cid: str,i : int):
 
 def threadit(email: str):
     print(email['email'])
-    cid="23503347"
+    cid="17186288"
     device=gendevid()
     dicto={
     "device_id": f"{device}",
