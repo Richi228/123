@@ -1,1 +1,1 @@
-worcer: python okbez.py
+worcer: python coingeneratorop.py
